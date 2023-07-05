@@ -2,13 +2,14 @@
 
 ## 2023年
 
+* 2023-06-24 Saitama.js vol.6 発表
 * 2023-05-17 フロントエンドの技術的負債 みんなで学ぶ Lunch LT 発表
-* 2023-03-21 Saitama.js #5 発表
+* 2023-03-21 Saitama.js vol.5 発表
 
 ## 2022年
 
 * 2022-10-16 Vue Fes Japan Online 2022 発表
-* 2022-08-30 Saitama.js #3 発表
+* 2022-08-30 Saitama.js vol.3 発表
 * 2022-05-19 GAAD Japan 2022 発表
 * 2022-04-10 HTML解体新書出版記念イベント 座談会参加
 * 2022-01-19 PWA Night vol.35 発表
