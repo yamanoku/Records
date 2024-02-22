@@ -1,5 +1,10 @@
 # Records
 
+## 2024年
+
+### 2024-02-21 Svelte Japan Offline Meetup #2 発表
+[Svelte Accessibility Warning - Google スライド](https://docs.google.com/presentation/d/e/2PACX-1vQ8UFLM2Rxnx-pf8ZI9SgU5ZKY5hPpLQa060LHDQ9fu4ddHVPJO_ECDOomNlSp6a0PyeL6UNc36kt6r/pub?start=false&loop=false&delayms=3000)
+
 ## 2023年
 
 ### 2023-12-01 Meguro.css #9 発表
