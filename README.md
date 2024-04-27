@@ -2,6 +2,10 @@
 
 ## 2024年
 
+### 2024-04-25 Meguro.es #27 発表
+
+[令和最新静的サイトジェネレーター事情 - yamaScrapbox https://scrapbox.io/yamanoku/%E4%BB%A4%E5%92%8C%E6%9C%80%E6%96%B0%E9%9D%99%E7%9A%84%E3%82%B5%E3%82%A4%E3%83%88%E3%82%B8%E3%82%A7%E3%83%8D%E3%83%AC%E3%83%BC%E3%82%BF%E3%83%BC%E4%BA%8B%E6%83%85]
+
 ### 2024-02-21 Svelte Japan Offline Meetup #2 発表
 [Svelte Accessibility Warning - Google スライド](https://docs.google.com/presentation/d/e/2PACX-1vQ8UFLM2Rxnx-pf8ZI9SgU5ZKY5hPpLQa060LHDQ9fu4ddHVPJO_ECDOomNlSp6a0PyeL6UNc36kt6r/pub?start=false&loop=false&delayms=3000)
 
