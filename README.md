@@ -2,6 +2,10 @@
 
 ## 2024年
 
+### 2024-05-21 アクセシビリティやるぞ！LT祭り #5 発表
+
+[日本企業のアクセシビリティ事例をコツコツと収集している話 - Google スライド](https://docs.google.com/presentation/d/e/2PACX-1vT22K28-kR821F3K_4UGLhx1UVD1EmyC5hoqGGUjtMO9Glg_btK048U8Vth1oMnjCTWaBTxXaRlGqL_/pub?start=false&loop=false&delayms=3000)
+
 ### 2024-04-25 Meguro.es #27 発表
 
 [令和最新静的サイトジェネレーター事情 - yamaScrapbox](https://scrapbox.io/yamanoku/%E4%BB%A4%E5%92%8C%E6%9C%80%E6%96%B0%E9%9D%99%E7%9A%84%E3%82%B5%E3%82%A4%E3%83%88%E3%82%B8%E3%82%A7%E3%83%8D%E3%83%AC%E3%83%BC%E3%82%BF%E3%83%BC%E4%BA%8B%E6%83%85)
