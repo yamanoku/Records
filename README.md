@@ -2,7 +2,7 @@
 
 ## 2024年
 
-### 2024-05-21 アクセシビリティやるぞ！LT祭り #5 発表
+### 2024-05-20 アクセシビリティやるぞ！LT祭り #5 発表
 
 [日本企業のアクセシビリティ事例をコツコツと収集している話 - Google スライド](https://docs.google.com/presentation/d/e/2PACX-1vT22K28-kR821F3K_4UGLhx1UVD1EmyC5hoqGGUjtMO9Glg_btK048U8Vth1oMnjCTWaBTxXaRlGqL_/pub?start=false&loop=false&delayms=3000)
 
