@@ -2,6 +2,10 @@
 
 ## 2025年
 
+### 2025-05-23 TSKaigi 2025（1日目） 発表
+
+### 2025-03-28 Vue.js v-tokyo Meetup #22 発表
+
 ### 2025-02-18 UV Study : Vue.js LT会 \~業務で活きる実践的なVue\~ 発表
 
 [Vue3.5からのuseIdでアクセシブルな汎用コンポーネントを作ってみよう](https://qiita.com/okuto_oyama/items/31ea75201d84856df8f8)
