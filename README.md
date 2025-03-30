@@ -5,6 +5,7 @@
 ### 2025-05-23 TSKaigi 2025（1日目） 発表
 
 ### 2025-03-28 Vue.js v-tokyo Meetup #22 発表
+[リアクティブシステムの変遷から理解するalien-signals / Learning alien-signals from the evolution of reactive systems - Speaker Deck](https://speakerdeck.com/yamanoku/learning-alien-signals-from-the-evolution-of-reactive-systems)
 
 ### 2025-02-18 UV Study : Vue.js LT会 \~業務で活きる実践的なVue\~ 発表
 
