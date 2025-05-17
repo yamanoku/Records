@@ -7,6 +7,7 @@
 ### 2025-05-23 TSKaigi 2025（1日目） 発表
 
 ### 2025-05-17 React Tokyo LT大会 発表
+[React 18からのAPI useIDを使おう！/ Let's Use the useID API from React 18 - Speaker Deck](https://speakerdeck.com/yamanoku/lets-use-the-useid-api-from-react-18)
 
 ### 2025-03-28 Vue.js v-tokyo Meetup #22 発表
 [リアクティブシステムの変遷から理解するalien-signals / Learning alien-signals from the evolution of reactive systems - Speaker Deck](https://speakerdeck.com/yamanoku/learning-alien-signals-from-the-evolution-of-reactive-systems)
