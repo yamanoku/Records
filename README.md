@@ -5,6 +5,7 @@
 ### 2025-06-18 toranoana.deno #21 発表
 
 ### 2025-05-23 TSKaigi 2025（1日目） 発表
+[転生したら​TypeScriptの​Enumだった​件～型​安全性と​エコシステムの​変化で​挫けそうになっているんだが​～](https://yamanoku.net/tskaigi-2025/)
 
 ### 2025-05-17 React Tokyo LT大会 発表
 [React 18からのAPI useIDを使おう！/ Let's Use the useID API from React 18 - Speaker Deck](https://speakerdeck.com/yamanoku/lets-use-the-useid-api-from-react-18)
