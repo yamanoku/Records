@@ -6,6 +6,8 @@
 
 ### 2025-06-06 TSKaigi 2025事後勉強会 —— まだまだ型りたい 発表
 
+[Proposal for ECMAScript enumsについて（2025-06-06時点） - yamaScrapbox](https://scrapbox.io/yamanoku/Proposal_for_ECMAScript_enums%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%EF%BC%882025-06-06%E6%99%82%E7%82%B9%EF%BC%89)
+
 ### 2025-05-23 TSKaigi 2025（1日目） 発表
 [転生したら​TypeScriptの​Enumだった​件～型​安全性と​エコシステムの​変化で​挫けそうになっているんだが​～](https://yamanoku.net/tskaigi-2025/)
 
