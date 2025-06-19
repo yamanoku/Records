@@ -4,6 +4,8 @@
 
 ### 2025-06-18 toranoana.deno #21 発表
 
+[DenoとJSRで実現する最速MCPサーバー開発記 / Building MCP Servers at Lightning Speed with Deno and JSR - Speaker Deck](https://speakerdeck.com/yamanoku/building-mcp-servers-at-lightning-speed-with-deno-and-jsr)
+
 ### 2025-06-06 TSKaigi 2025事後勉強会 —— まだまだ型りたい 発表
 
 [Proposal for ECMAScript enumsについて（2025-06-06時点） - yamaScrapbox](https://scrapbox.io/yamanoku/Proposal_for_ECMAScript_enums%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%EF%BC%882025-06-06%E6%99%82%E7%82%B9%EF%BC%89)
