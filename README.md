@@ -1,6 +1,6 @@
 # Records
 
-## 2025年
+## 2025年 - 7件
 
 ### 2025-06-18 toranoana.deno #21 発表
 
@@ -27,7 +27,7 @@
 
 [分散型SNSで生活してみての所感〜周辺動向と鯖引越しを添えて〜](https://scrapbox.io/yamanoku/%E5%88%86%E6%95%A3%E5%9E%8BSNS%E3%81%A7%E7%94%9F%E6%B4%BB%E3%81%97%E3%81%A6%E3%81%BF%E3%81%A6%E3%81%AE%E6%89%80%E6%84%9F%E3%80%9C%E5%91%A8%E8%BE%BA%E5%8B%95%E5%90%91%E3%81%A8%E9%AF%96%E5%BC%95%E8%B6%8A%E3%81%97%E3%82%92%E6%B7%BB%E3%81%88%E3%81%A6%E3%80%9C)
 
-## 2024年
+## 2024年 - 5件
 
 ### 2024-11-29 アクセシビリティカンファレンス福岡 前夜祭 発表
 
@@ -48,7 +48,7 @@
 ### 2024-02-21 Svelte Japan Offline Meetup #2 発表
 [Svelte Accessibility Warning - Google スライド](https://docs.google.com/presentation/d/e/2PACX-1vQ8UFLM2Rxnx-pf8ZI9SgU5ZKY5hPpLQa060LHDQ9fu4ddHVPJO_ECDOomNlSp6a0PyeL6UNc36kt6r/pub?start=false&loop=false&delayms=3000)
 
-## 2023年
+## 2023年 - 6件
 
 ### 2023-12-01 Meguro.css #9 発表
 
@@ -75,7 +75,7 @@
 
 [JavaScript 開発のこれまでとこれから - Google スライド](https://docs.google.com/presentation/d/e/2PACX-1vQSVfknQSQjLyX64N2e-UqJAY14DNUc6AE4glPiIRi0bEPCidFajb9yCLZ4s2gpFyV5piKL3yiWsi8y/pub?slide=id.p)
 
-## 2022年
+## 2022年 - 5件
 
 ### 2022-10-16 Vue Fes Japan Online 2022 発表
 
@@ -98,7 +98,7 @@
 
 [PWA Night vol.35 yamanoku 登壇資料 - Google スライド](https://docs.google.com/presentation/d/1zbE5YH6xuYZysHAvJ0GdWkO5y4h9E_9gUZPD1x6a-io/edit)
 
-## 2021年
+## 2021年 - 7件
 
 ### 2021-11-27 JSConf JP 2021 発表
 
@@ -129,7 +129,7 @@
 
 [Front-End Study #3「『当たり前』をつくりだすWebアクセシビリティ」 - YouTube](https://www.youtube.com/watch?v=eX8Lf20ETew&t=3902s)
 
-## 2020年
+## 2020年 - 2件
 
 ### 2020-12-08 Vue.js v-tokyo オンライン Meetup#12 発表
 
@@ -139,7 +139,7 @@
 
 [Web UIの実装で考えていることと気をつけたいこと - yamaScrapbox](https://scrapbox.io/yamanoku/Web_UI%E3%81%AE%E5%AE%9F%E8%A3%85%E3%81%A7%E8%80%83%E3%81%88%E3%81%A6%E3%81%84%E3%82%8B%E3%81%93%E3%81%A8%E3%81%A8%E6%B0%97%E3%82%92%E3%81%A4%E3%81%91%E3%81%9F%E3%81%84%E3%81%93%E3%81%A8)
 
-## 2019年
+## 2019年 - 7件
 
 ### 2019-12-23 Roppongi.vue #4 発表
 
@@ -169,7 +169,7 @@
 
 [インプットを限りなくやったら見える世界は変わってくる - yamaScrapbox](https://scrapbox.io/yamanoku/%E3%82%A4%E3%83%B3%E3%83%97%E3%83%83%E3%83%88%E3%82%92%E9%99%90%E3%82%8A%E3%81%AA%E3%81%8F%E3%82%84%E3%81%A3%E3%81%9F%E3%82%89%E8%A6%8B%E3%81%88%E3%82%8B%E4%B8%96%E7%95%8C%E3%81%AF%E5%A4%89%E3%82%8F%E3%81%A3%E3%81%A6%E3%81%8F%E3%82%8B)
 
-## 2018年
+## 2018年 - 4件
 
 ### 2018-11-22 We Are JavaScripters! @26th 発表
 
