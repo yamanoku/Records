@@ -8,7 +8,7 @@
 
 ### 2025-09-08 Web UI 実装勉強会 #1 発表
 
-TBD
+[改めてカルーセルを見つめ直してみる Summer 2025](https://scrapbox.io/yamanoku/%E6%94%B9%E3%82%81%E3%81%A6%E3%82%AB%E3%83%AB%E3%83%BC%E3%82%BB%E3%83%AB%E3%82%92%E8%A6%8B%E3%81%A4%E3%82%81%E7%9B%B4%E3%81%97%E3%81%A6%E3%81%BF%E3%82%8B_Summer_2025)
 
 ### 2025-06-18 toranoana.deno #21 発表
 
