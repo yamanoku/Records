@@ -12,7 +12,7 @@ TBD
 
 ### 2025-10-24 Svelte Japan Offline Meetup 発表
 
-TBD
+[Svelte Accessibility on 2025-10-24 - yamaScrapbox](https://scrapbox.io/yamanoku/Svelte_Accessibility_on_2025-10-24)
 
 ### 2025-09-08 Web UI 実装勉強会 #1 発表
 
