@@ -8,7 +8,7 @@ TBD
 
 ### 2025-10-25 Vue Fes Japan 2025 発表
 
-生成AI時代のWebアプリケーションアクセシビリティ改善
+[生成AI時代のWebアプリケーションアクセシビリティ改善](https://yamanoku.net/vuefes-japan-2025/slide/1)
 
 ### 2025-10-24 Svelte Japan Offline Meetup 発表
 
