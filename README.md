@@ -14,7 +14,7 @@ TBD
 
 ### 2025-12-17 Mita.ts #9 発表
 
-TBD
+[ひとりNavigation API Advent Calendarの紹介](https://docs.google.com/presentation/d/e/2PACX-1vRGV-SxffwYBEvr5Bc9jbWStWvjDch2vEV40wwN1ew8vW1Ya7YSkxRTn4e1RSFiV5_yF1PscUUEFgXD/pub?start=false&loop=false&delayms=3000)
 
 ### 2025-11-07 東葛.dev in 柏 LT交流会【第9回】 発表
 
