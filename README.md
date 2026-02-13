@@ -12,7 +12,7 @@ TBD
 
 ### 2026-02-12 フロントエンドでの技術選定 —— 「みんなで」語り尽くそう！ 発表
 
-TBD
+[SchooでVue.js/Nuxtを技術選定している理由](https://speakerdeck.com/yamanoku/why-choose-vue-nuxt)
 
 ### 2026-01-10 BuriKaigi 2026 発表
 
