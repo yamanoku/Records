@@ -8,7 +8,7 @@ TBD
 
 ### 2026-02-28 React Tokyoフェス2026 ポスターセッション発表
 
-TBD
+[ReactにおけるWebアクセシビリティ実践](https://docs.google.com/presentation/d/e/2PACX-1vRuddSQ6OqS0cTmfpd5uA5KezqwofFs10JLVL8-oV0vmxw2NT2Iq0j7Y38RmK6kunz58ZyIDSyqkKjb/pub?start=false&loop=false&delayms=3000)
 
 ### 2026-02-12 フロントエンドでの技術選定 —— 「みんなで」語り尽くそう！ 発表
 
