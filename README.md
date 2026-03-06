@@ -8,7 +8,7 @@ TBD
 
 ### 2025-03-06 AI時代のフロントエンド実践開発！ - Finatext Tech Night #6
 
-TBD
+[Shifting from MCP to Skills / ベストプラクティスの変遷を辿る](https://speakerdeck.com/yamanoku/shifting-from-mcp-to-skills)
 
 ### 2026-02-28 React Tokyoフェス2026 ポスターセッション発表
 
