@@ -2,9 +2,17 @@
 
 ## 2026年 - 5件（予定含む）
 
+### 2025-05-22 TSKaigi 2026
+
+Navigation APIがlib.dom.d.tsに採用されるまでの道のり
+
 ### 2025-05-10 技術書同人誌博覧会 出典
 
 TBD
+
+### 2025-03-23 Svelte Japan Offline Meetup #7
+
+Navigation APIと見るSvelteKitのWeb標準志向
 
 ### 2025-03-06 AI時代のフロントエンド実践開発！ - Finatext Tech Night #6
 
