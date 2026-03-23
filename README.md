@@ -12,7 +12,7 @@ TBD
 
 ### 2025-03-23 Svelte Japan Offline Meetup #7
 
-Navigation APIと見るSvelteKitのWeb標準志向
+<a href="https://speakerdeck.com/yamanoku/sveltekit-web-standards">Navigation APIと見るSvelteKitのWeb標準志向</a>
 
 ### 2025-03-06 AI時代のフロントエンド実践開発！ - Finatext Tech Night #6
 
