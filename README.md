@@ -4,11 +4,11 @@
 
 ### 2025-05-22 TSKaigi 2026
 
-Navigation APIがlib.dom.d.tsに採用されるまでの道のり
+[Navigation APIがlib.dom.d.tsに採用されるまでの道のり](https://2026.tskaigi.org/talks/33)
 
-### 2025-05-10 技術書同人誌博覧会 出典
+### 2025-05-10 第13回 技術書同人誌博覧会サークル出展
 
-TBD
+[お元気ですか.fm | 技術書同人誌博覧会](https://gishohaku.dev/gishohaku13/circles/T5xU9jvYoVnKxaURcPS7)
 
 ### 2025-03-23 Svelte Japan Offline Meetup #7
 
